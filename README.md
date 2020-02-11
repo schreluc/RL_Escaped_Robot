@@ -4,9 +4,7 @@ In this project we will implement a simple Reinforcement Q-Learning algorithm fo
 
 ## Robot Environment
 
-![Screenshot](Robot_Environment.png){:height="700px" width="400px"}
-
-<img src="Robot_Environment.png" width="100" height="100">
+<img src="Robot_Environment.png" width="400" height="400">
 
 ## Reinforcement Learning Process
 
