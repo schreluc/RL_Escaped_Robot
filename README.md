@@ -4,7 +4,7 @@ In this project we will implement a simple Reinforcement Q-Learning algorithm fo
 
 ## Robot Environment
 
-
+![Screenshot](Robot_Environment.png)
 
 ## Reinforcement Learning Process
 
